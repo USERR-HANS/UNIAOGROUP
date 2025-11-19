@@ -1,0 +1,152 @@
+[
+  {
+    "id": "CoffeeBeans",
+    "name": "Coffee Beans (Arabica, Robusta)",
+    "description": "High-quality Arabica and Robusta coffee beans sourced from trusted farms.",
+    "images": [" images/coffeebeans1.jpg"," images/coffeebeans2.jpg"," images/coffeebeans3.jpg"]
+  },
+  {
+    "id": "CashewNuts",
+    "name": "Cashew Nuts",
+    "description": "Premium cashew nuts processed for export.",
+    "images": [" images/cashewnuts1.jpg"," images/cashewnuts2.jpg"," images/cashewnuts3.jpg"]
+  },
+  {
+    "id": "Oils",
+    "name": "Oils (Sunflower, Maize, Sesame)",
+    "description": "Cold-pressed and refined cooking oils.",
+    "images": [" images/oils1.jpg"," images/oils2.jpg"," images/oils3.jpg"]
+  },
+  {
+    "id": "SisalFiber",
+    "name": "Sisal Fiber",
+    "description": "Industrial-grade sisal fiber for ropes and textiles.",
+    "images": [" images/sisalfiber1.jpg"," images/sisalfiber2.jpg"," images/sisalfiber3.jpg"]
+  },
+  {
+    "id": "Almonds",
+    "name": "Almonds",
+    "description": "High-quality export almonds.",
+    "images": [" images/almonds1.jpg"," images/almonds2.jpg"," images/almonds3.jpg"]
+  },
+  {
+    "id": "Maize",
+    "name": "Maize (White & Yellow)",
+    "description": "White and yellow maize for milling and feed.",
+    "images": [" images/maize1.jpg"," images/maize2.jpg"," images/maize3.jpg"]
+  },
+  {
+    "id": "BlackPepper",
+    "name": "Black Pepper",
+    "description": "Aromatic black peppercorns for global seasoning markets.",
+    "images": [" images/blackpepper1.jpg"," images/blackpepper2.jpg"," images/blackpepper3.jpg"]
+  },
+  {
+    "id": "WhitePepper",
+    "name": "White Pepper",
+    "description": "Premium white pepper for culinary use.",
+    "images": [" images/whitepepper1.jpg"," images/whitepepper2.jpg"," images/whitepepper3.jpg"]
+  },
+  {
+    "id": "Cloves",
+    "name": "Cloves",
+    "description": "Whole cloves for spice markets.",
+    "images": [" images/cloves1.jpg"," images/cloves2.jpg"," images/cloves3.jpg"]
+  },
+  {
+    "id": "Cinnamon",
+    "name": "Cinnamon",
+    "description": "High-grade cinnamon sticks and powder.",
+    "images": [" images/cinnamon1.jpg"," images/cinnamon2.jpg"," images/cinnamon3.jpg"]
+  },
+  {
+    "id": "SugarICUMSA",
+    "name": "White ICUMSA Sugar",
+    "description": "Refined ICUMSA sugar for food industries.",
+    "images": [" images/sugar1.jpg"," images/sugar2.jpg"," images/sugar3.jpg"]
+  },
+  {
+    "id": "Avocado",
+    "name": "Avocado (Hass)",
+    "description": "Hass avocados sorted and packed for export.",
+    "images": [" images/avocado1.jpg"," images/avocado2.jpg"," images/avocado3.jpg"]
+  },
+  {
+    "id": "CuminSeeds",
+    "name": "Cumin Seeds",
+    "description": "Fragrant cumin seeds for spices and oil extraction.",
+    "images": [" images/cumin1.jpg"," images/cumin2.jpg"," images/cumin3.jpg"]
+  },
+  {
+    "id": "Tea",
+    "name": "Tea (Kericho Gold)",
+    "description": "Kericho Gold tea leaves processed for export.",
+    "images": [" images/tea1.jpg"," images/tea2.jpg"," images/tea3.jpg"]
+  },
+  {
+    "id": "Ginger",
+    "name": "Ginger",
+    "description": "Fresh and dried ginger for spices and medicinal uses.",
+    "images": [" images/ginger1.jpg"," images/ginger2.jpg"," images/ginger3.jpg"]
+  },
+  {
+    "id": "RedKidneyBeans",
+    "name": "Red Kidney Beans",
+    "description": "Clean and graded red kidney beans.",
+    "images": [" images/redkidney1.jpg"," images/redkidney2.jpg"," images/redkidney3.jpg"]
+  },
+  {
+    "id": "Soybeans",
+    "name": "Soybean",
+    "description": "Non-GMO soybeans for food processing.",
+    "images": [" images/soy1.jpg"," images/soy2.jpg"," images/soy3.jpg"]
+  },
+  {
+    "id": "CocoaBeans",
+    "name": "Cocoa Beans",
+    "description": "High-fermentation cocoa beans.",
+    "images": [" images/cocoa1.jpg"," images/cocoa2.jpg"," images/cocoa3.jpg"]
+  },
+  {
+    "id": "SheaNuts",
+    "name": "Shea Nuts",
+    "description": "Raw shea nuts for cosmetics and food industries.",
+    "images": [" images/shea1.jpg"," images/shea2.jpg"," images/shea3.jpg"]
+  },
+  {
+    "id": "Walnut",
+    "name": "Walnut",
+    "description": "Export-grade walnuts.",
+    "images": [" images/walnut1.jpg"," images/walnut2.jpg"," images/walnut3.jpg"]
+  },
+  {
+    "id": "Pecans",
+    "name": "Pecans",
+    "description": "Premium pecans for confectionery.",
+    "images": [" images/pecans1.jpg"," images/pecans2.jpg"," images/pecans3.jpg"]
+  },
+  {
+    "id": "Peanut",
+    "name": "Peanuts",
+    "description": "High-quality peanuts for roasting and oil.",
+    "images": [" images/peanut1.jpg"," images/peanut2.jpg"," images/peanut3.jpg"]
+  },
+  {
+    "id": "Hazelnuts",
+    "name": "Hazelnuts",
+    "description": "Quality hazelnuts for snacks and confectionery.",
+    "images": [" images/hazelnuts1.jpg"," images/hazelnuts2.jpg"," images/hazelnuts3.jpg"]
+  },
+  {
+    "id": "Macadamia",
+    "name": "Macadamia Nuts",
+    "description": "Top-grade macadamia nuts.",
+    "images": [" images/macadamia1.jpg"," images/macadamia2.jpg"," images/macadamia3.jpg"]
+  },
+  {
+    "id": "Pistachio",
+    "name": "Pistachio",
+    "description": "Export pistachios for snacks and baking.",
+    "images": [" images/pistachio1.jpg"," images/pistachio2.jpg"," images/pistachio3.jpg"]
+  }
+]
